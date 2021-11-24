@@ -1,1 +1,3 @@
-# clone-woowacourse-projects
+# Hi 이곳은 우아한 테크코스 3기 과제들을 클론한걸 정리한 레포입니다
+
+## level-1 clone
