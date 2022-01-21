@@ -17,7 +17,7 @@ https://github.com/blacktoast/javascript-racingcar </br>
 https://github.com/blacktoast/javascript-lotto
 
 
-### 나만의 유튜브 강의실 솨제 </br>
+### 나만의 유튜브 강의실 과제 </br>
 https://github.com/blacktoast/javascript-youtube-classroom 
 
 
