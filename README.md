@@ -12,7 +12,7 @@ https://github.com/blacktoast/javascript-racingcar
 ### Vanila jsvascript 과제 
 
 
-💪🏽 구현완료 - 후에 리팩토링 예정 💪🏽
+💪🏽 구현완료 - 후에 리팩토링 예정 💪🏽 </br>
 https://github.com/blacktoast/javascript-lotto ## 로또 과제
 
 https://github.com/blacktoast/javascript-youtube-classroom ## 나만의 유튜브 강의실 솨제
