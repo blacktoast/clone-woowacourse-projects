@@ -13,12 +13,12 @@ https://github.com/blacktoast/javascript-racingcar
 
 
 💪🏽 구현완료 - 후에 리팩토링 예정 💪🏽 </br>
-https://github.com/blacktoast/javascript-lotto ## 로또 과제
+https://github.com/blacktoast/javascript-lotto ## 로또 과제 </br>
 
-https://github.com/blacktoast/javascript-youtube-classroom ## 나만의 유튜브 강의실 솨제
-
-
+https://github.com/blacktoast/javascript-youtube-classroom ## 나만의 유튜브 강의실 솨제 </br>
 
 
-👷🏽 현재 구현중👷🏽
+
+
+👷🏽 현재 구현중👷🏽 </br>
 https://github.com/blacktoast/javascript-subway ## 지하철 과저 -목표: 바닐라로 spa구현 👷🏽
