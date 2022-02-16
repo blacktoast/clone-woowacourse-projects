@@ -24,7 +24,7 @@ https://github.com/blacktoast/javascript-youtube-classroom
  </br> </br> </br>
 
 👷🏽 현재 구현중👷🏽 </br>
-https://github.com/blacktoast/javascript-subway ## 지하철 과저 -목표: 바닐라로 spa구현 👷🏽
+https://github.com/blacktoast/javascript-subway ## 지하철 과제 -목표: 바닐라로 spa구현 👷🏽
 
 
 ## level-2 clnoe
